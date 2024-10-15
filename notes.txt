@@ -1,8 +1,10 @@
 npm init -y
 npm i express cors
 npm i nodemon -D
+backend:npm start
 
 
 
 npm create vite@latest client
 npm i axios
+frontend:npm run dev
